@@ -1,7 +1,7 @@
 {
-  "name": "hyper-plastic",
+  "name": "hyper-plastic-slate",
   "version": "0.0.3",
-  "description": "A theme for Hyper based on Will Stone's Plastic theme",
+  "description": "A theme for Hyper based on Will Stone's Plastic theme with cute colors.",
   "main": "index.js",
   "files": [
     "index.js",
@@ -12,19 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lowmess/hyper-plastic.git"
+    "url": "git+https://github.com/kayteh/hyper-plastic-slate.git"
   },
   "keywords": [
     "hyper",
     "hyper-theme",
     "plastic"
   ],
-  "author": "Alec Lomas <alec@lowmess.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lowmess/hyper-plastic/issues"
-  },
-  "homepage": "https://github.com/lowmess/hyper-plastic#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-lowmess": "^2.4.0",
